@@ -15,10 +15,6 @@
 * Schematic information provided by this EVK follows the reference circuit on pg. 5 of the above datasheet
 
 ----
-### Where to Purchase?
-* http://www.rohm.com/web/global/distribution/-/dinventory/BD9G101G-EVK/sample/0
-
-----
 ### DISCLAIMER
 This Technical Data is protected under copyright laws.
 
